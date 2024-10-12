@@ -1,6 +1,7 @@
 package io.karatelabs;
 
 public class JavaAbc {
+
     public static void main(String[] args) {
 
         int i=0;
@@ -10,6 +11,10 @@ public class JavaAbc {
         while (i<j){
             System.out.println(i);
             i++;
+
+
+   
+
         }
     }
 }
