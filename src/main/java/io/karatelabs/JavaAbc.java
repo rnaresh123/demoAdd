@@ -4,8 +4,17 @@ public class JavaAbc {
 
     public static void main(String[] args) {
 
-        for(int i=0; i<10; i++){
+        int i=0;
+        int j=10;
+
+
+        while (i<j){
             System.out.println(i);
+            i++;
+
+
+   
+
         }
     }
 }
